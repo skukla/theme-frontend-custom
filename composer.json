@@ -1,5 +1,5 @@
 {
-        "name": "skukla/theme-frontend-gumps",
+        "name": "skukla/theme-frontend-custom",
         "type": "magento2-theme",
         "require": {
                 "php": "7.0.2|7.0.4|~7.0.6|~7.1.0",
