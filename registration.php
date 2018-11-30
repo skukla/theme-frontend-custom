@@ -1,3 +1,3 @@
 <?php
 use \Magento\Framework\Component\ComponentRegistrar;
-ComponentRegistrar::register(ComponentRegistrar::THEME, 'frontend/Custom/blank', __DIR__);
+ComponentRegistrar::register(ComponentRegistrar::THEME, 'frontend/Custom/rileyrose', __DIR__);
